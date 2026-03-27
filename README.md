@@ -1,4 +1,4 @@
-# Health Insurance Premium Prediction
+# Health Insurance Premium Prediction (ML)
 
 ## Problem Statement
 
